@@ -1,5 +1,0 @@
-# root 提权的备选方案：加载 SO
-
-参考链接：
-https://0xdf.gitlab.io/2023/11/09/htb-broker.html#load-so-alternative
-https://github.com/darrenmartyn/zimbra-hinginx/blob/main/hinginx.sh
