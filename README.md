@@ -6,3 +6,7 @@
 
 ## Visual 靶机 Visual Studio 项目
 参考链接：[Hellohack](https://0xdf.gitlab.io/2024/02/24/htb-visual.html#hello-world)
+
+## Office 靶机 Visual Studio 项目
+参考链接：[SharpGPOAbuse](https://0xdf.gitlab.io/2024/06/22/htb-office.html#gpo-abuse)
+项目地址：[滥用 GPO](https://github.com/FSecureLABS/SharpGPOAbuse)
